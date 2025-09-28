@@ -12,9 +12,9 @@ export const minikitConfig = {
   accountAssociation: {
     header:
       "eyJmaWQiOjEzNTU1MTksInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHhCMkVhQjFiNEE2OTUxYjVhOTE5QUY2QTZlMzU3MzlEOGU0NDcyNTU2In0",
-    payload: "eyJkb21haW4iOiJteS1taW5pa2l0LWFwcC1ieGNuLnZlcmNlbC5hcHAifQ",
+    payload: "eyJkb21haW4iOiJteS1taW5pa2l0LWFwcC1waGkudmVyY2VsLmFwcCJ9",
     signature:
-      "MHhmMDRmNzY5ZWYwYjViODMxMTg1Y2U4YTAzY2EzNzViYjg5ZGZmNGY5NDViYzIyOTc5YTBmYTRiMjQ1MjVjYTVjNGI2ZmFjYjJiODY1OTUzNDBiZDkzZTUzZjQ1OTE1MjhiMGI3ZDhmZTU5Y2ZjMWZlMGYzYzQ1MWQ1ZDE3YWZhODFi",
+      "MHgyYTNmYWMyZTRjMWEwMGM0NzJiOTljOTYzMzk3MjgwMGM2YzJhYjJlNDc5YmE0NGYyMjZkNmE5MDY0YWVmMzliNDVlNjBkZjdkMDQ2ZjlkZWMxZWZjNDI0ODZmNWZmMjBhZWM1N2M0NDI0NjExZTI5ODQ3OGFiYjI0YTM2OTBiOTFj",
   },
   baseBuilder: {
     allowedAddresses: [],
