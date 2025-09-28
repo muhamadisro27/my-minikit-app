@@ -17,11 +17,11 @@ export const minikitConfig = {
       "MHgyYTNmYWMyZTRjMWEwMGM0NzJiOTljOTYzMzk3MjgwMGM2YzJhYjJlNDc5YmE0NGYyMjZkNmE5MDY0YWVmMzliNDVlNjBkZjdkMDQ2ZjlkZWMxZWZjNDI0ODZmNWZmMjBhZWM1N2M0NDI0NjExZTI5ODQ3OGFiYjI0YTM2OTBiOTFj",
   },
   baseBuilder: {
-    allowedAddresses: [],
+    allowedAddresses: ["0xB24847DE9b70186aEb969dbc98fFEC4301Caf993"],
   },
   miniapp: {
     version: "1",
-    name: "my-minikit-app",
+    name: "My Dummy Kit",
     subtitle: "",
     description: "",
     screenshotUrls: [],
